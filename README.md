@@ -25,5 +25,5 @@ Instead of treating telemetry as isolated data points, SUNGUARD couples them int
 ### Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/sunguard-aditya-l1.git](https://github.com/devnori-lab/sunguard-aditya-l1.git)
+   git clone [https://github.com/devnori-lab/sunguard-aditya-l1.git](https://github.com/devnori-lab/sunguard-aditya-l1.git)
    cd sunguard-aditya-l1
